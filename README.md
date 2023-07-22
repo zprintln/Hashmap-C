@@ -1,4 +1,3 @@
-Apologies for that oversight. Here's the updated README.md, including information about the test suite:
 
 # Hashmap Data Structure - C Implementation
 
